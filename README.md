@@ -8,6 +8,7 @@ The purpose of this analysis is to show and filter gathered data pertaining to U
 
 ## Results
 By entering in a specific date, the table will filter the data to only show sightings from that day.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ![ex1](ex1.png)
 ![ex2](ex2.png)
